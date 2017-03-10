@@ -2,7 +2,7 @@ import numpy as np
 from smoothing_actions import *
 
 # Parameters
-
+#Trying to make a change.
 beta = .96
 y = [1, 2]
 b0 = 0
